@@ -184,6 +184,8 @@ def atualizar_tabela(DATA, DIFERENCA, DESCRICAO, CODIGOFILHO, n_clicks):
             
     
 
+    
+
     print("DataFrame filtrado:")
     print(df_filtrada)
 
